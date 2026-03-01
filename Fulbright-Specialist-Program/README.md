@@ -175,3 +175,28 @@
 ---
 
 *Last updated: February 28, 2026*
+
+---
+
+## Files in This Folder
+
+- README.md (this file)
+- application-proposal.md (FULL application proposal with all sections prepared)
+
+---
+
+## Application Status
+
+✅ **Application Proposal Prepared** — All sections ready for submission
+**Action Required:**
+1. Review eligibility (especially 5-year abroad rule with Marie)
+2. Gather 3 professional references
+3. Prepare CV (max 10 pages)
+4. Create account at application portal
+5. Submit application (ongoing, no deadline)
+
+**Application Portal:** https://worldlearning-npsp.my.site.com/FSP/
+
+---
+
+*Last updated: March 1, 2026*
